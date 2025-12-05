@@ -7,12 +7,12 @@
 </p>
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="src/lp-personal.gif" width="800" alt="Preview da Landing Page">
+  <img src="src/personal-lp.gif" width="800" alt="Preview da Landing Page">
 </div>
 
 <p style="text-align: center;">
   🔗
-  <a href="#" target="_blank">
+  <a href="https://cesartavora.github.io/Landing-Page-Pessoal/" target="_blank">
     <strong>Acesse o portfólio em produção</strong>
   </a>
 </p>
@@ -79,7 +79,7 @@
 
 <h3>✅ Online (Deploy)</h3>
 <p>
-  <a href="#" target="_blank">
+  <a href="https://cesartavora.github.io/Landing-Page-Pessoal/" target="_blank">
     Acesse aqui!
   </a>
 </p>
@@ -95,8 +95,8 @@
 <h2>🔗 Links</h2>
 <p>
   <strong>Repositório do Projeto:</strong><br>
-  <a href="https://github.com/CesarTavora" target="_blank">
-    https://github.com/CesarTavora
+  <a href="https://github.com/CesarTavora/Landing-Page-Pessoal" target="_blank">
+    https://github.com/CesarTavora/Landing-Page-Pessoal
   </a>
 </p>
 
